@@ -1,0 +1,13 @@
+numpy
+scipy
+tqdm
+docopt
+pytorch>=1.0.0
+nltk
+torchvision
+ujson
+spacy>=2.0.16
+tensorboard
+tensorflow
+tensorboardX
+urllib3
